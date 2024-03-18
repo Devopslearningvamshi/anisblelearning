@@ -1,0 +1,20 @@
+# yaml with plain
+a: 10
+b: 100
+name: patelvamshidhar
+
+#yaml with list
+-fruits : list of fruits
+  apple
+  banana
+  oranges
+  grapes
+
+#yaml with key/dictornary
+
+-Money :
+   10 : 10 rup notes present
+   20 : 20 rup notes present
+   30 : 30 rup notes present
+   40 : 40 rup notes present
+   #40 is value : # 10 rup notes present is key

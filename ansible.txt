@@ -1,1 +1,2 @@
-ansible testing
+ansible -i servers all -e ansible_username=ec2-user -e ansible_password=DevOps321 -m ping
+#above code to test the ansible in the servers u have create vim servers and place private ip address
